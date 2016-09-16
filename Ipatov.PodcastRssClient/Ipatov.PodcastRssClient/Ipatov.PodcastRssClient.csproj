@@ -107,8 +107,15 @@
     <None Include="project.json" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Catalog\DigitalPodcasts\DigitalPodcastCatalog.cs" />
+    <Compile Include="Catalog\DigitalPodcasts\DigitalPodcastsSearchQuery.cs" />
+    <Compile Include="Catalog\DigitalPodcasts\Internal\DigitalPodcastSearchResult.cs" />
+    <Compile Include="Catalog\DigitalPodcasts\Internal\DigitalPodcastsSearchUrlBuilder.cs" />
+    <Compile Include="Catalog\DigitalPodcasts\Internal\OpmlSchema.cs" />
+    <Compile Include="Catalog\DigitalPodcasts\Internal\OpmlSearchResult.cs" />
     <Compile Include="Catalog\IPodcastCatalogEntry.cs" />
     <Compile Include="Catalog\IPodcastSearchProvider.cs" />
+    <Compile Include="Catalog\IPodcastSearchResultStatus.cs" />
     <Compile Include="Catalog\ITunes\AppleITunesPodcastCatalog.cs" />
     <Compile Include="Catalog\ITunes\AppleITunesSearchQuery.cs" />
     <Compile Include="Catalog\ITunes\Internal\ITunesPodcast.cs" />
