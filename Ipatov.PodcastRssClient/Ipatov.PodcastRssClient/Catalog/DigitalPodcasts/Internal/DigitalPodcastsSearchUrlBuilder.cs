@@ -21,7 +21,7 @@ namespace Ipatov.PodcastRssClient.Catalog.DigitalPodcasts.Internal
         {
             var sb = new StringBuilder();
             sb.Append(BaseUri);
-            sb.Append("appid=" + WebUtility.UrlEncode(query?.AppId ?? ""));
+            sb.Append("appid=" + WebUtility.UrlEncode(DigitalPodcastCatalog.AppId));
             sb.Append("&keywords=" + WebUtility.UrlEncode(query?.Term ?? ""));
             if (results > 50)
             {

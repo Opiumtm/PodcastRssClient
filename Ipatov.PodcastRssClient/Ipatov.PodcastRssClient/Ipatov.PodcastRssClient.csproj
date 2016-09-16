@@ -107,6 +107,9 @@
     <None Include="project.json" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ArtistImages\ArtistImageSize.cs" />
+    <Compile Include="ArtistImages\IArtistImageProvider.cs" />
+    <Compile Include="ArtistImages\LastFm\LastFmArtistImageProvider.cs" />
     <Compile Include="Catalog\DigitalPodcasts\DigitalPodcastCatalog.cs" />
     <Compile Include="Catalog\DigitalPodcasts\DigitalPodcastsSearchQuery.cs" />
     <Compile Include="Catalog\DigitalPodcasts\Internal\DigitalPodcastSearchResult.cs" />

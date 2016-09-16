@@ -6,11 +6,6 @@
     public sealed class DigitalPodcastsSearchQuery : PodcastSearchQuery
     {
         /// <summary>
-        /// Application identifier.
-        /// </summary>
-        public string AppId { get; set; }
-
-        /// <summary>
         /// Sort type.
         /// </summary>
         public SortType Sort { get; set; } = SortType.rel;

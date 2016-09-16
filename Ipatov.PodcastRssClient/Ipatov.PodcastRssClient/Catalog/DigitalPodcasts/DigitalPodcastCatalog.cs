@@ -31,7 +31,7 @@ namespace Ipatov.PodcastRssClient.Catalog.DigitalPodcasts
         /// <returns>Search result.</returns>
         public Task<ICollection<IPodcastCatalogEntry>> Search(string term)
         {
-            return Search(new DigitalPodcastsSearchQuery() {Term = term, AppId = AppId });
+            return Search(new DigitalPodcastsSearchQuery() {Term = term });
         }
     }
 }
