@@ -126,6 +126,7 @@
     <Compile Include="Catalog\ITunes\Internal\ITunesPodcastCatalogEntry.cs" />
     <Compile Include="Catalog\ITunes\Internal\ITunesPodcastSearchResult.cs" />
     <Compile Include="Catalog\PodcastSearchQuery.cs" />
+    <Compile Include="Podcast\Internal\Consts.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="XboxClient\Client\AzureDataMarketAuthenticationCache.cs" />
     <Compile Include="XboxClient\Client\AzureDataMarketAuthenticationClient.cs" />
