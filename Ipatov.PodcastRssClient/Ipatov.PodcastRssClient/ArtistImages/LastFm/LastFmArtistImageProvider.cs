@@ -78,7 +78,7 @@ namespace Ipatov.PodcastRssClient.ArtistImages.LastFm
             {"small", 4},
         };
 
-        private static readonly Dictionary<ArtistImageSize, int> ImageSizes2 = new Dictionary<ArtistImageSize, int>(StringComparer.OrdinalIgnoreCase)
+        private static readonly Dictionary<ArtistImageSize, int> ImageSizes2 = new Dictionary<ArtistImageSize, int>()
         {
             {ArtistImageSize.Mega, 0},
             {ArtistImageSize.ExtraLarge, 1},
