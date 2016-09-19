@@ -20,6 +20,12 @@ namespace Ipatov.PodcastRssClient.ArtistImages.LastFm
         /// </summary>
         public static string ApiKey { get; set; }
 
+        /// <summary>
+        /// Query image.
+        /// </summary>
+        /// <param name="term">Serach term.</param>
+        /// <param name="desiredSize">Desired size.</param>
+        /// <returns>Image url.</returns>
         public async Task<string> QueryImageUrl(string term, ArtistImageSize? desiredSize = null)
         {
             var uriStr = string.Format(UriFormat, WebUtility.UrlEncode(term), ApiKey);
