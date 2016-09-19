@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ipatov.PodcastRssClient", "Ipatov.PodcastRssClient\Ipatov.PodcastRssClient.csproj", "{A331E1E9-C3AC-43B2-A197-C143F4DFC4EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ipatov.PodcastRssClient.Tests", "Ipatov.PodcastRssClient.Tests\Ipatov.PodcastRssClient.Tests.csproj", "{7FDD38BC-746E-4850-A4AA-C610A3AD068B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,26 @@ Global
 		{A331E1E9-C3AC-43B2-A197-C143F4DFC4EE}.Release|x64.Build.0 = Release|x64
 		{A331E1E9-C3AC-43B2-A197-C143F4DFC4EE}.Release|x86.ActiveCfg = Release|x86
 		{A331E1E9-C3AC-43B2-A197-C143F4DFC4EE}.Release|x86.Build.0 = Release|x86
+		{7FDD38BC-746E-4850-A4AA-C610A3AD068B}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{7FDD38BC-746E-4850-A4AA-C610A3AD068B}.Debug|ARM.ActiveCfg = Debug|ARM
+		{7FDD38BC-746E-4850-A4AA-C610A3AD068B}.Debug|ARM.Build.0 = Debug|ARM
+		{7FDD38BC-746E-4850-A4AA-C610A3AD068B}.Debug|ARM.Deploy.0 = Debug|ARM
+		{7FDD38BC-746E-4850-A4AA-C610A3AD068B}.Debug|x64.ActiveCfg = Debug|x64
+		{7FDD38BC-746E-4850-A4AA-C610A3AD068B}.Debug|x64.Build.0 = Debug|x64
+		{7FDD38BC-746E-4850-A4AA-C610A3AD068B}.Debug|x64.Deploy.0 = Debug|x64
+		{7FDD38BC-746E-4850-A4AA-C610A3AD068B}.Debug|x86.ActiveCfg = Debug|x86
+		{7FDD38BC-746E-4850-A4AA-C610A3AD068B}.Debug|x86.Build.0 = Debug|x86
+		{7FDD38BC-746E-4850-A4AA-C610A3AD068B}.Debug|x86.Deploy.0 = Debug|x86
+		{7FDD38BC-746E-4850-A4AA-C610A3AD068B}.Release|Any CPU.ActiveCfg = Release|x86
+		{7FDD38BC-746E-4850-A4AA-C610A3AD068B}.Release|ARM.ActiveCfg = Release|ARM
+		{7FDD38BC-746E-4850-A4AA-C610A3AD068B}.Release|ARM.Build.0 = Release|ARM
+		{7FDD38BC-746E-4850-A4AA-C610A3AD068B}.Release|ARM.Deploy.0 = Release|ARM
+		{7FDD38BC-746E-4850-A4AA-C610A3AD068B}.Release|x64.ActiveCfg = Release|x64
+		{7FDD38BC-746E-4850-A4AA-C610A3AD068B}.Release|x64.Build.0 = Release|x64
+		{7FDD38BC-746E-4850-A4AA-C610A3AD068B}.Release|x64.Deploy.0 = Release|x64
+		{7FDD38BC-746E-4850-A4AA-C610A3AD068B}.Release|x86.ActiveCfg = Release|x86
+		{7FDD38BC-746E-4850-A4AA-C610A3AD068B}.Release|x86.Build.0 = Release|x86
+		{7FDD38BC-746E-4850-A4AA-C610A3AD068B}.Release|x86.Deploy.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

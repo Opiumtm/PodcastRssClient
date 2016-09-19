@@ -9,6 +9,16 @@ namespace Ipatov.PodcastRssClient.Podcast
     public interface IPodcastEpisode
     {
         /// <summary>
+        /// Order in feed (0 - most new).
+        /// </summary>
+        int Order { get; }
+
+        /// <summary>
+        /// Publication date.
+        /// </summary>
+        DateTime? PubDate { get; }
+
+        /// <summary>
         /// Title.
         /// </summary>
         string Title { get; }         
@@ -56,7 +66,7 @@ namespace Ipatov.PodcastRssClient.Podcast
         /// <summary>
         /// Keywords.
         /// </summary>
-        string Keywords { get; }
+        ICollection<string> Keywords { get; }
 
         /// <summary>
         /// Media enclosure.
@@ -67,26 +77,5 @@ namespace Ipatov.PodcastRssClient.Podcast
         /// Episode image.
         /// </summary>
         string ImageUrl { get; }
-    }
-
-    /// <summary>
-    /// Enclosure.
-    /// </summary>
-    public interface IPodcastEpisodeEnclosure
-    {
-        /// <summary>
-        /// Media url.
-        /// </summary>
-        string Url { get; }
-
-        /// <summary>
-        /// Length (bytes).
-        /// </summary>
-        ulong Length { get; }
-
-        /// <summary>
-        /// Content type.
-        /// </summary>
-        string ContentType { get; }
     }
 }

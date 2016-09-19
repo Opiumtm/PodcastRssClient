@@ -9,6 +9,11 @@ namespace Ipatov.PodcastRssClient.Podcast
     public interface IPodcastChannel
     {
         /// <summary>
+        /// Channel uri.
+        /// </summary>
+        string ChannelUri { get; }
+
+        /// <summary>
         /// Podcast channel link.
         /// </summary>
         string Link { get; }
@@ -64,8 +69,18 @@ namespace Ipatov.PodcastRssClient.Podcast
         string ChannelImageUrl { get; }
 
         /// <summary>
+        /// Channel image.
+        /// </summary>
+        IPodcastChannelImage ChannelImage { get; }
+
+        /// <summary>
         /// Episodes.
         /// </summary>
         ICollection<IPodcastEpisode> Episodes { get; }
+
+        /// <summary>
+        /// Keywords.
+        /// </summary>
+        ICollection<string> Keywords { get; }
     }
 }

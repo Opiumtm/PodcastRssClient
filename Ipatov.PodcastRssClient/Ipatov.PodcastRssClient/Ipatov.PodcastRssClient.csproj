@@ -127,10 +127,14 @@
     <Compile Include="Catalog\ITunes\Internal\ITunesPodcastSearchResult.cs" />
     <Compile Include="Catalog\PodcastSearchQuery.cs" />
     <Compile Include="Podcast\Internal\Consts.cs" />
+    <Compile Include="Podcast\Internal\PodcastChannel.cs" />
+    <Compile Include="Podcast\Internal\RssValuesHelper.cs" />
     <Compile Include="Podcast\IPodcastChannel.cs" />
     <Compile Include="Podcast\IPodcastChannelImage.cs" />
     <Compile Include="Podcast\IPodcastChannelOwner.cs" />
     <Compile Include="Podcast\IPodcastEpisode.cs" />
+    <Compile Include="Podcast\IPodcastEpisodeEnclosure.cs" />
+    <Compile Include="Podcast\PodcastChannelFactory.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="XboxClient\Client\AzureDataMarketAuthenticationCache.cs" />
     <Compile Include="XboxClient\Client\AzureDataMarketAuthenticationClient.cs" />

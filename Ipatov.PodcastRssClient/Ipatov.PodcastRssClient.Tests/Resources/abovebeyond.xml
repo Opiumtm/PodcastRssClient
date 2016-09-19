@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss 
+        xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" 
+        xmlns:atom="http://www.w3.org/2005/Atom">
+        <channel>
+                <title>Above &amp; Beyond: Group Therapy</title>
+                <link>http://static.aboveandbeyond.nu/grouptherapy/podcast.xml</link>
+                <description>Group Therapy is the weekly radio show from Above &amp; Beyond also known as ABGT</description>
+                <language>en</language>
+                <copyright>Above &amp; Beyond</copyright>
+                <lastBuildDate>Mon, 19 Sep 2016 09:05:21 +0000</lastBuildDate>
+                <category>Music</category>
+                <atom:link rel="self" href="http://static.aboveandbeyond.nu/grouptherapy/podcast.xml" type="application/rss+xml"></atom:link>
+                <itunes:author>Above &amp; Beyond</itunes:author>
+                <itunes:summary>Group Therapy is the weekly radio show from Above &amp; Beyond also known as ABGT</itunes:summary>
+                <itunes:owner>
+                        <itunes:name>Above &amp; Beyond</itunes:name>
+                        <itunes:email>contact@aboveandbeyond.nu</itunes:email>
+                </itunes:owner>
+                <itunes:image href="http://static.aboveandbeyond.nu/assets/logos/Group_Therapy_Podcast_600x600.jpg"></itunes:image>
+                <itunes:link rel="image" type="video/jpeg" href="http://static.aboveandbeyond.nu/assets/logos/Group_Therapy_Podcast_600x600.jpg">Above &amp; Beyond: Group Therapy</itunes:link>
+                <itunes:category text="Music"></itunes:category>
+                <itunes:keyword>anjunabeats, above and beyond, oceanlab, anjuna</itunes:keyword>
+                <itunes:explicit>no</itunes:explicit>
+                <item>
+                        <title>#199 Group Therapy Radio with Above &amp; Beyond</title>
+                        <link>http://www.aboveandbeyond.nu/radio/abgt199</link>
+                        <description>Episode #199 / Tinlicker Guest Mix</description>
+                        <author>Above &amp; Beyond</author>
+                        <enclosure url="http://traffic.libsyn.com/anjunabeats/ABGT199_LiveShow160916.m4a" length="115205480" type="audio/mpeg"></enclosure>
+                        <guid>abgt199</guid>
+                        <pubDate>Fri, 16 Sep 2016 08:10:00 +0000</pubDate>
+                        <itunes:author>Above &amp; Beyond</itunes:author>
+                        <itunes:subtitle>Episode #199 / Tinlicker Guest Mix</itunes:subtitle>
+                        <itunes:explicit>no</itunes:explicit>
+                        <itunes:duration>02:00:00</itunes:duration>
+                </item>
+                <item>
+                        <title>#198 Group Therapy Radio with Above &amp; Beyond</title>
+                        <link>http://www.aboveandbeyond.nu/radio/abgt198</link>
+                        <description>Episode #198 / Rolo Green Guest Mix</description>
+                        <author>Above &amp; Beyond</author>
+                        <enclosure url="http://traffic.libsyn.com/anjunabeats/ABGT198_LiveShow090916.m4a" length="115205480" type="audio/mpeg"></enclosure>
+                        <guid>abgt198</guid>
+                        <pubDate>Fri, 09 Sep 2016 08:10:00 +0000</pubDate>
+                        <itunes:author>Above &amp; Beyond</itunes:author>
+                        <itunes:subtitle>Episode #198 / Rolo Green Guest Mix</itunes:subtitle>
+                        <itunes:explicit>no</itunes:explicit>
+                        <itunes:duration>02:00:00</itunes:duration>
+                </item>
+                <item>
+                        <title>#197 Group Therapy Radio with Above &amp; Beyond</title>
+                        <link>http://www.aboveandbeyond.nu/radio/abgt197</link>
+                        <description>Episode #197 / Joonas Hahmo Guest Mix</description>
+                        <author>Above &amp; Beyond</author>
+                        <enclosure url="http://traffic.libsyn.com/anjunabeats/ABGT197_LiveShow020916.m4a" length="115205480" type="audio/mpeg"></enclosure>
+                        <guid>abgt197</guid>
+                        <pubDate>Fri, 02 Sep 2016 08:10:00 +0000</pubDate>
+                        <itunes:author>Above &amp; Beyond</itunes:author>
+                        <itunes:subtitle>Episode #197 / Joonas Hahmo Guest Mix</itunes:subtitle>
+                        <itunes:explicit>no</itunes:explicit>
+                        <itunes:duration>02:00:00</itunes:duration>
+                </item>
+                <item>
+                        <title>#196 Group Therapy Radio with Above &amp; Beyond</title>
+                        <link>http://www.aboveandbeyond.nu/radio/abgt196</link>
+                        <description>Episode #196 / Max Freegrant Guest Mix</description>
+                        <author>Above &amp; Beyond</author>
+                        <enclosure url="http://traffic.libsyn.com/anjunabeats/ABGT196_LiveShow260816.m4a" length="115205480" type="audio/mpeg"></enclosure>
+                        <guid>abgt196</guid>
+                        <pubDate>Fri, 26 Aug 2016 08:10:00 +0000</pubDate>
+                        <itunes:author>Above &amp; Beyond</itunes:author>
+                        <itunes:subtitle>Episode #196 / Max Freegrant Guest Mix</itunes:subtitle>
+                        <itunes:explicit>no</itunes:explicit>
+                        <itunes:duration>02:00:00</itunes:duration>
+                </item>
+                <item>
+                        <title>#195 Group Therapy Radio with Above &amp; Beyond</title>
+                        <link>http://www.aboveandbeyond.nu/radio/abgt195</link>
+                        <description>Episode #195 / Richard Knott Guest Mix</description>
+                        <author>Above &amp; Beyond</author>
+                        <enclosure url="http://traffic.libsyn.com/anjunabeats/ABGT195_LiveShow190816.m4a" length="115205480" type="audio/mpeg"></enclosure>
+                        <guid>abgt195</guid>
+                        <pubDate>Fri, 19 Aug 2016 08:10:00 +0000</pubDate>
+                        <itunes:author>Above &amp; Beyond</itunes:author>
+                        <itunes:subtitle>Episode #195 / Richard Knott Guest Mix</itunes:subtitle>
+                        <itunes:explicit>no</itunes:explicit>
+                        <itunes:duration>02:00:00</itunes:duration>
+                </item>
+                <item>
+                        <title>#194 Group Therapy Radio with Above &amp; Beyond</title>
+                        <link>http://www.aboveandbeyond.nu/radio/abgt194</link>
+                        <description>Episode #194 / Rodrigo Deem Guest Mix</description>
+                        <author>Above &amp; Beyond</author>
+                        <enclosure url="http://traffic.libsyn.com/anjunabeats/ABGT194_Playback.m4a" length="115205480" type="audio/mpeg"></enclosure>
+                        <guid>abgt194</guid>
+                        <pubDate>Fri, 12 Aug 2016 08:10:00 +0000</pubDate>
+                        <itunes:author>Above &amp; Beyond</itunes:author>
+                        <itunes:subtitle>Episode #194 / Rodrigo Deem Guest Mix</itunes:subtitle>
+                        <itunes:explicit>no</itunes:explicit>
+                        <itunes:duration>02:00:00</itunes:duration>
+                </item>
+                <item>
+                        <title>#193 Group Therapy Radio with Above &amp; Beyond</title>
+                        <link>http://www.aboveandbeyond.nu/radio/abgt193</link>
+                        <description>Episode #193 / Matthias Vogt Guest Mix</description>
+                        <author>Above &amp; Beyond</author>
+                        <enclosure url="http://traffic.libsyn.com/anjunabeats/ABGT193_LiveShow050816.m4a" length="115205480" type="audio/mpeg"></enclosure>
+                        <guid>abgt193</guid>
+                        <pubDate>Fri, 05 Aug 2016 08:10:00 +0000</pubDate>
+                        <itunes:author>Above &amp; Beyond</itunes:author>
+                        <itunes:subtitle>Episode #193 / Matthias Vogt Guest Mix</itunes:subtitle>
+                        <itunes:explicit>no</itunes:explicit>
+                        <itunes:duration>02:00:00</itunes:duration>
+                </item>
+                <item>
+                        <title>#192 Group Therapy Radio with Above &amp; Beyond</title>
+                        <link>http://www.aboveandbeyond.nu/radio/abgt192</link>
+                        <description>Episode #192 / Jason Ross Guest Mix</description>
+                        <author>Above &amp; Beyond</author>
+                        <enclosure url="http://traffic.libsyn.com/anjunabeats/ABGT192_LiveShow290716.m4a" length="115205480" type="audio/mpeg"></enclosure>
+                        <guid>abgt192</guid>
+                        <pubDate>Fri, 29 Jul 2016 08:10:00 +0000</pubDate>
+                        <itunes:author>Above &amp; Beyond</itunes:author>
+                        <itunes:subtitle>Episode #192 / Jason Ross Guest Mix</itunes:subtitle>
+                        <itunes:explicit>no</itunes:explicit>
+                        <itunes:duration>02:00:00</itunes:duration>
+                </item>
+                <item>
+                        <title>#189 Group Therapy Radio with Above &amp; Beyond</title>
+                        <link>http://www.aboveandbeyond.nu/radio/abgt189</link>
+                        <description>Episode #189 / Solid Stone Guest Mix</description>
+                        <author>Above &amp; Beyond</author>
+                        <enclosure url="http://traffic.libsyn.com/anjunabeats/ABGT189_LiveShow080716.m4a" length="115205480" type="audio/mpeg"></enclosure>
+                        <guid>abgt189</guid>
+                        <pubDate>Fri, 08 Jul 2016 08:10:00 +0000</pubDate>
+                        <itunes:author>Above &amp; Beyond</itunes:author>
+                        <itunes:subtitle>Episode #189 / Solid Stone Guest Mix</itunes:subtitle>
+                        <itunes:explicit>no</itunes:explicit>
+                        <itunes:duration>02:00:00</itunes:duration>
+                </item>
+                <item>
+                        <title>#150 Group Therapy Radio with Above &amp; Beyond</title>
+                        <link>http://www.aboveandbeyond.nu/radio/abgt150</link>
+                        <description>Episode #150 / Live from Allphones Arena, Sydney</description>
+                        <author>Above &amp; Beyond</author>
+                        <enclosure url="http://traffic.libsyn.com/anjunabeats/ABGT150_AB.mp3" length="115205480" type="audio/mpeg"></enclosure>
+                        <guid>abgt150</guid>
+                        <pubDate>Tue, 29 Sep 2015 11:00:00 +0000</pubDate>
+                        <itunes:author>Above &amp; Beyond</itunes:author>
+                        <itunes:subtitle>Episode #150 / Live from Allphones Arena, Sydney</itunes:subtitle>
+                        <itunes:explicit>no</itunes:explicit>
+                        <itunes:duration>02:00:00</itunes:duration>
+                </item>
+                <item>
+                        <title>#100 Group Therapy Radio with Above &amp; Beyond</title>
+                        <link>http://www.aboveandbeyond.nu/radio/abgt100</link>
+                        <description>Episode #100 / Live from Madison Square Garden, New York City</description>
+                        <author>Above &amp; Beyond</author>
+                        <enclosure url="http://traffic.libsyn.com/anjunabeats/ABGT100-7-192.mp3" length="115205480" type="audio/mpeg"></enclosure>
+                        <guid>abgt100</guid>
+                        <pubDate>Mon, 20 Oct 2014 03:00:00 +0000</pubDate>
+                        <itunes:author>Above &amp; Beyond</itunes:author>
+                        <itunes:subtitle>Episode #100 / Live from Madison Square Garden, New York City</itunes:subtitle>
+                        <itunes:explicit>no</itunes:explicit>
+                        <itunes:duration>02:00:00</itunes:duration>
+                </item>
+                <item>
+                        <title>#ABGT050 Group Therapy Radio with Above &amp; Beyond</title>
+                        <link>http://www.aboveandbeyond.nu/abgt050</link>
+                        <description>Above &amp; Beyond live from Alexandra Palace, London - Saturday October        26</description>
+                        <author>Above &amp; Beyond</author>
+                        <category>Music</category>
+                        <enclosure url="http://traffic.libsyn.com/anjunabeats/ABGT050_AB.mp3" length="290787816" type="audio/mpeg"></enclosure>
+                        <guid>ABGT050-Above_and_Beyond</guid>
+                        <pubDate>Sat, 26 Oct 2013 11:00:00 +0000</pubDate>
+                        <itunes:author>Above &amp; Beyond</itunes:author>
+                        <itunes:subtitle>Above &amp; Beyond live from Alexandra Palace, London - Saturday October        26</itunes:subtitle>
+                        <itunes:explicit>no</itunes:explicit>
+                        <itunes:duration>02:00:00</itunes:duration>
+                </item>
+                <item>
+                        <title>#001 Group Therapy Radio with Above &amp; Beyond</title>
+                        <link>http://www.aboveandbeyond.nu/radio</link>
+                        <description>Episode 001 / Live from Bangalore, India</description>
+                        <author>Above &amp; Beyond</author>
+                        <category>Music</category>
+                        <enclosure url="http://traffic.libsyn.com/anjunabeats/ABGT001.mp3" length="116593450" type="audio/mpeg"></enclosure>
+                        <guid>http://traffic.libsyn.com/anjunabeats/ABGT001.mp3</guid>
+                        <pubDate>Wed, 14 Nov 2012 05:15:00 +0000</pubDate>
+                        <itunes:author>Above &amp; Beyond</itunes:author>
+                        <itunes:subtitle>Episode 001 / Live from Bangalore, India</itunes:subtitle>
+                        <itunes:explicit>no</itunes:explicit>
+                        <itunes:duration>02:01:09</itunes:duration>
+                </item>
+        </channel>
+</rss>
