@@ -6,6 +6,7 @@ using System.Runtime.InteropServices;
 using System.Threading.Tasks;
 using Windows.Storage;
 using Ipatov.PodcastRssClient.Podcast;
+using Ipatov.PodcastRssClient.Podcast.Internal;
 using Microsoft.VisualStudio.TestPlatform.UnitTestFramework;
 
 namespace Ipatov.PodcastRssClient.Tests
@@ -118,6 +119,17 @@ namespace Ipatov.PodcastRssClient.Tests
             var episode = franetic.Episodes.FirstOrDefault(e => e.Order == 0);
             Assert.IsNotNull(episode);
             Assert.IsNotNull(episode.ImageUrl);
+        }
+
+        [TestMethod]
+        public void TestDateParse()
+        {
+            var ds1 = "Fri, 11 Nov 2016 14:36:11 GMT";
+            var ds2 = "Wed, 07 Dec 2016 00:00:00 EDT";
+            var dt1 = RssValuesHelper.ConvertDateTime(ds1);
+            var dt2 = RssValuesHelper.ConvertDateTime(ds2);
+            Assert.IsNotNull(dt1, $"Fail to parse {ds1}");
+            Assert.IsNotNull(dt2, $"Fail to parse {ds2}");
         }
     }
 }
